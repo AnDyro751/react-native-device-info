@@ -260,20 +260,20 @@ const devicesWithNotch = [
     model: 'Mi A2 Lite',
   },
   {
-    brand: "samsung",
-    model: "SM-A205G"
+    brand: 'samsung',
+    model: 'SM-A205G'
   },
   {
-    brand: "samsung",
-    model: "SM-A305G"
+    brand: 'samsung',
+    model: 'SM-A305G'
   },
   {
-    brand: "samsung",
-    model: "SM-A505G"
+    brand: 'samsung',
+    model: 'SM-A505G'
   },
   {
-    brand: "samsung",
-    model: "SM-A705G"
+    brand: 'samsung',
+    model: 'SM-A705G'
   },
 ];
 
