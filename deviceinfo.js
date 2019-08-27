@@ -261,19 +261,19 @@ const devicesWithNotch = [
   },
   {
     brand: "samsung",
-    model: "A205G"
+    model: "SM-A205G"
   },
   {
     brand: "samsung",
-    model: "A305G"
+    model: "SM-A305G"
   },
   {
     brand: "samsung",
-    model: "A505G"
+    model: "SM-A505G"
   },
   {
     brand: "samsung",
-    model: "A705G"
+    model: "SM-A705G"
   },
 ];
 
